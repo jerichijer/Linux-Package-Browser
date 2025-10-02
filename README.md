@@ -8,10 +8,10 @@ A simple cross-platform GUI package browser built with wxWidgets. Currently supp
 - Dependency Information - explore forward and reverse dependencies
 
 ## Getting Started
-### Prerequisties
+### Prerequisites
 - A linux distribution with pacman (e.g., Arch Linux, Manjaro).
-- CMAKE (3.10+ recommmended)
-- wxWidgets (must be installed and availed to your compiler).
+- CMAKE (3.10+ recommended)
+- wxWidgets (must be installed and available to your compiler).
 
 Install dependencies on Arch-based systems:
 ```bash
